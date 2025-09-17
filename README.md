@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Data Analysis
 
-This project explores the **Titanic: Machine Learning from Disaster** dataset using Python.  
-We analyze survival patterns with data cleaning, feature engineering, and visualizations.
+This mini-project explores the **Titanic: Machine Learning from Disaster** dataset using Python.  
+by analyzing survival patterns with data cleaning, feature engineering, and visualizations.
 
 
 ## 📊 Features of the Project
