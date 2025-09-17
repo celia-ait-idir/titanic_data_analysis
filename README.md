@@ -25,9 +25,3 @@ The dataset used is the **Titanic dataset from Kaggle**:
 - NumPy  
 - Matplotlib  
 - Seaborn  
-
-
-
-
-   git clone https://github.com/your-username/titanic-analysis.git
-   cd titanic-analysis
